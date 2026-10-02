@@ -1,0 +1,6 @@
+{
+  "name": "Diego Bebidas - CRM & Gestão",
+  "description": "Sistema completo de gestão comercial, estoque, PDV frente de caixa e financeiro para Diego Bebidas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
